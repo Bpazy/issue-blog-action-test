@@ -1,6 +1,10 @@
 name: Update README
 
-on: [ push ]
+on:
+  push: 
+    branches: '*'
+  schedule:
+   - cron: '*/300000 * * * *'
 
 jobs:
   build:
