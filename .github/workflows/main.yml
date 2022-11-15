@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: Bpazy/issue-list-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
