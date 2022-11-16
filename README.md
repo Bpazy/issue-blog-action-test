@@ -1,6 +1,6 @@
 # issue-list-action-test
 
-Recent Blogs:
+### Recent Blogs:
 <!--START_SECTION:blog-->
 | Title | Update Time |
 | ------ | ------ |
