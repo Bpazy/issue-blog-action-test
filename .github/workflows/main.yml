@@ -1,10 +1,9 @@
 name: Update README
 
 on:
-  push: 
-    branches: '*'
+  workflow_dispatch:
   schedule:
-   - cron: '*/300000 * * * *'
+   - cron: '0 */1 * * *'
 
 jobs:
   build:
