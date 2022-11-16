@@ -1,4 +1,4 @@
-# issue-list-action-test
+# issue-blog-action-test
 
 ### Recent Blogs:
 <!--START_SECTION:blog-->
