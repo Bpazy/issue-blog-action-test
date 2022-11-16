@@ -5,3 +5,5 @@
 2. Repo's issue No.3
 1. Repo's issue No.1
 2. Repo's issue No.3
+1. Repo's issue No.1
+2. Repo's issue No.3
