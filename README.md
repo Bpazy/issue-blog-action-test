@@ -1,4 +1,5 @@
 # issue-blog-action-test
+test for [issue-blog-action](https://github.com/Bpazy/issue-blog-action)
 
 ### Recent Blogs:
 <!--START_SECTION:blog-->
